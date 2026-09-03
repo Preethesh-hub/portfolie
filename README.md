@@ -3,7 +3,7 @@
 My personal developer portfolio, built as part of the Web Development assignment. It demonstrates responsive design using semantic HTML, a CSS color/type system, Flexbox, and CSS Grid.
 
 ## Live Demo
-**Live URL:** https://your-username.github.io/devfolio/
+**Live URL:** https://Preethesh-hub.github.io/portfolie/
 
 ## Project Requirements Met
 - **Semantic Structure**: Uses `<header>`, `<main>`, `<section>`, and `<footer>`.
@@ -15,10 +15,10 @@ My personal developer portfolio, built as part of the Web Development assignment
 ## How to run locally
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/devfolio.git
+   git clone https://github.com/Preethesh-hub/portfolie.git
    ```
 2. Open `index.html` in your browser.
 
 ## Submission details
-- Repository URL: https://github.com/your-username/devfolio
-- Live URL: https://your-username.github.io/devfolio/
+- Repository URL: https://github.com/Preethesh-hub/portfolie
+- Live URL: https://Preethesh-hub.github.io/portfolie/
